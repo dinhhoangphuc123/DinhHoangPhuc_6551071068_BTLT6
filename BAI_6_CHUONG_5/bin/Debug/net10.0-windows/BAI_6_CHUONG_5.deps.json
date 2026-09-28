@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BAI_6_CHUONG_5/1.0.0": {
+        "runtime": {
+          "BAI_6_CHUONG_5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BAI_6_CHUONG_5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
